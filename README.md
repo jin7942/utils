@@ -1,5 +1,9 @@
 # @jin7942/utils
 
+[![npm version](https://img.shields.io/npm/v/@jin7942/utils.svg)](https://www.npmjs.com/package/@jin7942/utils)
+[![npm downloads](https://img.shields.io/npm/dm/@jin7942/utils.svg)](https://www.npmjs.com/package/@jin7942/utils)
+[![license](https://img.shields.io/npm/l/@jin7942/utils.svg)](https://github.com/jin7942/utils/blob/main/LICENSE)
+
 파일 시스템 작업 및 로깅 기능을 지원하는 경량 유틸리티 모듈입니다.  
 CLI 도구, 배포 도구, 자동화 스크립트 등에 사용하기 좋도록 설계되었습니다.
 
