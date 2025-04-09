@@ -15,7 +15,7 @@ npm install @jin7942/utils
 
 ## 문서
 
-[DOCUMENT](./docs/READEME.md)
+[DOCUMENT](./docs/README.md)
 
 ## 제공 기능
 
