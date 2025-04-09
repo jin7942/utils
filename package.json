@@ -1,5 +1,8 @@
 {
     "name": "@jin7942/utils",
+    "publishConfig": {
+        "access": "public"
+    },
     "version": "1.0.0",
     "description": "자주 사용하는 로거, 파일 유틸을 모은 경량화 TypeScript 유틸리티 모음",
     "main": "dist/index.js",
